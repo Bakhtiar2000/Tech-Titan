@@ -1,0 +1,266 @@
+[
+    {
+        "topCategory_name": "Desktop",
+        "topCategory_child": [
+            {
+                "gaming_pc": [
+                    {
+                        "product_id": 1,
+                        "product_name": "AMD Ryzen 7 5800X Gaming Desktop PC",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/ryzen-7-5800x-gaming-desktop-pc-0001-500x500.webp",
+                        "model": "AMD Ryzen 7 5800X Gaming Desktop PC",
+                        "processor": "AMD Ryzen 7 5800X",
+                        "motherboard": "GIGABYTE B550M DS3H AC Micro ATX AM4 AMD Motherboard",
+                        "ssd": "Corsair DOMINATOR PLATINUM RGB 8GB RAM + Acer FA100 512GB M.2",
+                        "graphics_card": "Colorful iGame GeForce RTX 3060 Ti Ultra W OC LHR-V 8GB GDDR6",
+                        "description": "The AMD Ryzen 7 5800X Gaming Desktop PC features the powerful AMD Ryzen 7 5800X Processor paired with an AMD Ryzen 7 5800X Processor. To keep the CPU cool during intensive tasks, the DeepCool LE520 240mm All-in-one ARGB Liquid CPU Cooler is installed. It comes with Corsair DOMINATOR PLATINUM RGB 8GB DDR4 3600MHz RAM for smooth multitasking and gaming performance. The Gaming Desktop PC is equipped with an Acer FA100 512GB M.2 NVMe PCIe Gen3x4 SSD for fast and efficient storage access. This gaming desktop PC is equipped with a Colorful iGame GeForce RTX 3060 Ti Ultra W OC LHR-V 8GB GDDR6 Graphics Card. It comes in the stylish Antec DP503 Mid-Tower E-ATX Gaming Case and is powered by a reliable Antec HCG-750 Gold Series 750W Full Modular Power Supply.",
+                        "price": 134000,
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    },
+                    {
+                        "product_id": 2,
+                        "product_name": "AMD Ryzen 5 7600X Gaming Desktop PC",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/ryzen-5-7600x-gaming-desktop-pc-0001-500x500.webp",
+                        "model": "AMD Ryzen 5 7600X Gaming Desktop PC",
+                        "processor": "AMD Ryzen 5 7600X",
+                        "motherboard": "GIGABYTE B650M DS3H DDR5 AMD AM5 Micro-ATX",
+                        "ssd": "Kingston FURY Beast 16GB 6000MHz RAM + Samsung 980 Pro 500GB SSD",
+                        "graphics_card": "Colorful GeForce RTX 3060 NB DUO 8GB-V 8GB GDDR6 Graphics Card",
+                        "description": "The AMD Ryzen 5 7600X Gaming Desktop PC is equipped with the AMD Ryzen 5 7600X processor and backed by the GIGABYTE B650M DS3H DDR5 AMD AM5 Micro-ATX Motherboard. This Gaming Desktop PC offers lightning-fast performance and impressive multitasking capabilities. The Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM ensures smooth gameplay and seamless application launches. Store your favorite games and files on the lightning-quick Samsung 980 Pro 500GB PCIe 4.0 M.2 NVMe SSD. The Colorful GeForce RTX 3060 NB DUO 8GB-V 8GB GDDR6 Graphics Card guarantees stunning visuals and immersive gaming experiences. To keep everything cool, the DeepCool AK620 High-Performance Dual Tower CPU Cooler is in place. With the reliable Antec NeoEco Gold 650W Modular Power Supply and the stylish Antec AX90 Mid-Tower ATX Gaming Case, this gaming desktop PC not only delivers top-notch performance but also looks great in any gaming setup.",
+                        "price": 124000,
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    },
+                    {
+                        "product_id": 3,
+                        "product_name": "Intel Core i5-10400f 10th Gen Gaming Desktop PC",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/star-pc/intel/10th-gen-i5-10400f-02-500x500.webp",
+                        "model": "Intel Core i5-10400f 10th Gen Gaming Desktop PC",
+                        "processor": "Intel 10th Gen i5-10400F Processor",
+                        "motherboard": "ASRock B560M-HDV 10th and 11th Gen Micro ATX Motherboard",
+                        "ssd": "1TB HDD + 120GB SSD",
+                        "description": "The AMD Ryzen 5 7600X Gaming Desktop PC is equipped with the AMD Ryzen 5 7600X processor and backed by the GIGABYTE B650M DS3H DDR5 AMD AM5 Micro-ATX Motherboard. This Gaming Desktop PC offers lightning-fast performance and impressive multitasking capabilities. The Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM ensures smooth gameplay and seamless application launches. Store your favorite games and files on the lightning-quick Samsung 980 Pro 500GB PCIe 4.0 M.2 NVMe SSD. The Colorful GeForce RTX 3060 NB DUO 8GB-V 8GB GDDR6 Graphics Card guarantees stunning visuals and immersive gaming experiences. To keep everything cool, the DeepCool AK620 High-Performance Dual Tower CPU Cooler is in place. With the reliable Antec NeoEco Gold 650W Modular Power Supply and the stylish Antec AX90 Mid-Tower ATX Gaming Case, this gaming desktop PC not only delivers top-notch performance but also looks great in any gaming setup.",
+                        "graphics_card": "Intel 10th Gen Core i5-10400F Processor ASRock B560M-HDV 10th and 11th Gen Micro ATX Motherboard Team Elite Plus Red 8GB 3200MHz DDR4 U-DIMM Desktop RAM Toshiba P300 1TB Desktop PC Internal Hard Drive HP EX900 M.2 120GB PCIe NVMe Internal SSD ASUS GeForce GT 1030 2GB GDDR5 Low Profile Graphics Card Antec CUPRUM STRIKE CSK 450W 80 Plus Bronze Power Supply Antec NX260 Mid Tower ARGB Gaming Case",
+                        "price": 58000,
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    }
+                ],
+                "apple_imac": [
+                    {
+                        "product_id": 1,
+                        "product_name": "Apple iMac 24inch 4K Retina Display",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/apple-imac/imac-m1-24-inch/imac-m1-24-inch-04-500x500.jpg",
+                        "discription": "Apple iMac 24 comes with Apple M1 chip (8-core CPU with 4 performance cores and 4 efficiency cores, 16-core Neural Engine) with Apple Integrated 8-core GPU. Apple iMac transformed by the M1 chip. Stands out in any space. Its exclusive design is only possible for M1, the first system on a chip for Mac. The latest iMac comes with 24-inch 4.5K Retina display (4480 x 2520 resolution) with 218 pixels per inch with support for 1 billion colors, 500 nits brightness, Wide color (P3), True Tone technology. It makes iMac so thin and compact that it fits in more places than ever. M1 Chip integrates the processor, graphics, memory, and more onto a single chip, that helps into a space so small it practically disappears. This iMac designed with a perfectly poised stand and blazingly fast thunderbolt port and also this iMac has a power connector, which is easily attached via magnets. In this iMac, the P3 wide color gamut brings to life in over a billion colors, the Images shine with a brilliant 500 nits of brightness. Industry-leading antiâ€‘reflective coating delivers greater comfort and readability.",
+                        "model": " Apple iMac 24inch M1 Green 2021",
+                        "MPN": "MJV83ZP/A",
+                        "chip": "Apple M1 chip (8 Core CPU and 7 Core GPU)",
+                        "storage": "8GB RAM + 256GB SSD",
+                        "price": 120000,
+                        "display": "24inch 4K Retina Display (4096 x 2304) P3 4K Retina Display (4096 x 2304) P3",
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    },
+                    {
+                        "product_id": 2,
+                        "product_name": "Apple iMac 24inch 4K Retina",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/apple-imac/imac-m1-24-inch/imac-m1-24-inch-01-500x500.jpg",
+                        "discription": "Apple iMac 24 comes with Apple M1 chip (8-core CPU with 4 performance cores and 4 efficiency cores, 16-core Neural Engine) with Apple Integrated 8-core GPU. Apple iMac transformed by the M1 chip. Stands out in any space. Its exclusive design is only possible for M1, the first system on a chip for Mac. The latest iMac comes with 24-inch 4.5K Retina display (4480 x 2520 resolution) with 218 pixels per inch with support for 1 billion colors, 500 nits brightness, Wide color (P3), True Tone technology. It makes iMac so thin and compact that it fits in more places than ever. M1 Chip integrates the processor, graphics, memory, and more onto a single chip, that helps into a space so small it practically disappears. This iMac designed with a perfectly poised stand and blazingly fast thunderbolt port and also this iMac has a power connector, which is easily attached via magnets. In this iMac, the P3 wide color gamut brings to life in over a billion colors, the Images shine with a brilliant 500 nits of brightness. Industry-leading antiâ€‘reflective coating delivers greater comfort and readability.",
+                        "model": " Apple iMac 24inch M1 Green 2021",
+                        "MPN": "MGPD3ZP/A",
+                        "chip": "Apple M1 chip (8 Core CPU and 7 Core GPU)",
+                        "storage": "12GB RAM + 356GB SSD",
+                        "price": 150000,
+                        "display": "24inch 4K Retina Display (4096 x 2304) P3 4K Retina Display (4096 x 2304) P3",
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    },
+                    {
+                        "product_id": 2,
+                        "product_name": "Apple iMac 30inch 4K Retina",
+                        "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/apple-imac/imac-m1/imac-m1-005-500x500.jpg",
+                        "discription": "Apple iMac 30 comes with Apple M1 chip (8-core CPU with 4 performance cores and 4 efficiency cores, 16-core Neural Engine) with Apple Integrated 8-core GPU. Apple iMac transformed by the M1 chip. Stands out in any space. Its exclusive design is only possible for M1, the first system on a chip for Mac. The latest iMac comes with 24-inch 4.5K Retina display (4480 x 2520 resolution) with 218 pixels per inch with support for 1 billion colors, 500 nits brightness, Wide color (P3), True Tone technology. It makes iMac so thin and compact that it fits in more places than ever. M1 Chip integrates the processor, graphics, memory, and more onto a single chip, that helps into a space so small it practically disappears. This iMac designed with a perfectly poised stand and blazingly fast thunderbolt port and also this iMac has a power connector, which is easily attached via magnets. In this iMac, the P3 wide color gamut brings to life in over a billion colors, the Images shine with a brilliant 500 nits of brightness. Industry-leading antiâ€‘reflective coating delivers greater comfort and readability.",
+                        "model": " Apple iMac 24inch M1 Green 2021",
+                        "MPN": "MGPD3ZP/A",
+                        "chip": "Apple M1 chip (8 Core CPU and 7 Core GPU)",
+                        "storage": "12GB RAM + 356GB SSD",
+                        "price": 150000,
+                        "display": "30inch 4K Retina Display (4096 x 2304) P3 4K Retina Display (4096 x 2304) P3",
+                        "status": "in Stoke",
+                        "product_code": 0,
+                        "reviews": ""
+                    }
+                ],
+                "brand_pc": [
+                    {
+                        "brand_pc_category_name": "Asus",
+                        "brand_pc_category_childe": [
+                            {
+                                "product_id": 1,
+                                "product_name": "ASUS ExpertCenter D700MC   ",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/asus/d700mc/d700mc-01-500x500.webp",
+                                "model": "ExpertCenter D700MC",
+                                "processor": " Intel Core i3-10100 3.6 GHz (6M Cache, up to 4.3 GHz, 4 cores)",
+                                "motherboard": "",
+                                "ram":"4GB DDR4 3200MHz",
+                                "ssd": "",
+                                "graphics_card": "",
+                                "description": "The ASUS ExpertCenter D700MC Core i3 10th Gen Desktop PC a remarkable blend of sleek aesthetics and efficient functionality designed to cater to the diverse needs of modern business environments. The Intel Core i3-10100 processor, boasts a base clock speed of 3.6 GHz and the ability to turbo boost up to 4.3 GHz. With four cores and 6MB of cache, it offers the processing power needed to tackle a variety of tasks with ease, ensuring seamless multitasking and efficient performance. The system comes equipped with 4GB of DDR4 3200MHz RAM, ensuring smooth multitasking capabilities. This memory configuration allows you to work on multiple applications simultaneously without experiencing lag or slowdowns, thereby enhancing productivity.",
+                                "price": 80000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 2,
+                                "product_name": "ASUS ExpertCenter D900SCS",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/asus/d900sc/d900sc-01-500x500.webp",
+                                "model": "ExpertCenter D900SC",
+                                "processor": "Intel Core i7-11700 (16M Cache, 2.5 GHz, up to 4.90 GHz)",
+                                "motherboard": "",
+                                "ram":" 8GB DDR4 3200MHz",
+                                "ssd": "",
+                                "graphics_card": "",
+                                "description": "Intel Core i7-11700 10th Gen Desktop PC a remarkable blend of sleek aesthetics and efficient functionality designed to cater to the diverse needs of modern business environments. The Intel Core i3-10100 processor, boasts a base clock speed of 3.6 GHz and the ability to turbo boost up to 4.3 GHz. With four cores and 6MB of cache, it offers the processing power needed to tackle a variety of tasks with ease, ensuring seamless multitasking and efficient performance. The system comes equipped with 4GB of DDR4 3200MHz RAM, ensuring smooth multitasking capabilities. This memory configuration allows you to work on multiple applications simultaneously without experiencing lag or slowdowns, thereby enhancing productivity.",
+                                "price": 100000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 3,
+                                "product_name": "ASUS ExpertCenter D700MD",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/asus/d700md/d700md-01-500x500.webp",
+                                "model": "ExpertCenter D700MD",
+                                "processor": "Intel 12th Gen Core i5-12400 (2.5 GHz to 4.0 GHz, 18 MB)",
+                                "motherboard": "",
+                                "ram":"8GB DDR4 3200MHz",
+                                "ssd": "",
+                                "graphics_card": "",
+                                "description": "The ASUS ExpertCenter D700MD Desktop PC features an Intel 12th Gen Core i5-12400 CPU with speeds ranging from 2.5 GHz to 4.0 GHz and an amazing 18 MB cache, providing unrivaled performance for your work. With 8GB of high-speed DDR4 3200MHz RAM, you may multitask with ease, providing fast transitions between apps and effective handling of data-intensive activities. The large 1TB SATA 7200RPM HDD provides enough of storage for your papers, files, and entertainment, helping to keep your workspace organized and clutter-free. This PC comes with an Acer USB keyboard and mouse, which improves your entire user experience. This system adapts to your demands whether you're plunging into work, content production, or enjoyment. Upgrade your workstation with the ASUS ExpertCenter D700MD Core i5 12th Gen Desktop PC, which provides top-tier processing power, ample memory, and ample storage - all geared to help you with your everyday computing activities.",
+                                "price": 95000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            }
+                        ]
+                      
+                    },
+                    
+                    {
+                        "brand_pc_category_name": "Dell",
+                        "brand_pc_category_childe":[
+                            {
+                                "product_id": 1,
+                                "product_name": "Dell Vostro 3888MT",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/dell/vostro-3888mt/vostro-3888mt-03-500x500.webp",
+                                "model": " Vostro 3888MT",
+                                "processor": "Intel Core i3-10100 Processor (6M Cache, 3.60 GHz up to 4.30 GHz)",
+                                "motherboard": "",
+                                "ram":"8GB DDR4 2666 MHz RAM",
+                                "ssd": "1TB 7200RPM 3.5inch SATA",
+                                "graphics_card": "",
+                                "description": "Dell Vostro 3888MT Brand PC comes with Intel Core i3-10100 Processor (6M Cache, 3.60 GHz up to 4.30 GHz), 8GB DDR4 2666 MHz RAM, Intel UHD Graphics 630, 1TB 7200RPM 3.5inch'' SATA HDD, and Free DOS Operating System. Its 8GB DDR4 RAM makes this an essential business desktop that also contains 1TB 7200RPM of SATA storage to ensure greater workability. In its basic components include with USB Keyboard & Mouse. In addition, it has 4 x USB3.2 Gen 1 Type-A, 4 x USB2.0 Type-A, 1 x HDMI Port, 1 x VGA/D-Sub, 1 x Audio Port Combo and 1x Extra RAM Slot (highest upgradeable up to 64GB) with Tray load DVD Drive (Reads and Writes to DVD/CD). It runs on a Free DOS operating system with a 260W Power Supply and a Tray load DVD Drive (Reads and Writes to DVD/CD). Its 802.11 ac 2x2 WiFi, 10/100/1000 Gigabit Ethernet & Bluetooth 5.0 ensures high-speed network & wireless connectivity. This best-in-class security and manageability in a space-saving design come with 3 years of limited warranty facility.",
+                                "price": 50000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 2,
+                                "product_name": "Dell Vostro 3888MT",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/dell/vostro-3888mt/vostro-3888mt-03-500x500.webp",
+                                "processor": "Intel Core i5-10400 Processor (12MB Cache, 2.9 GHz up to 4.3 GHz)",
+                                "model": " Vostro 3888MT",
+                                "motherboard": "",
+                                "ram":"8GB DDR4 2666MHz RAM",
+                                "ssd": "1TB 7200 RPM SATA",
+                                "graphics_card": "",
+                                "description": "The Dell Vostro 3888MT Brand PC comes with Intel Core i5-10400 Processor (12MB Cache, 2.9 GHz up to 4.3 GHz), Intel UHD Graphics 630, 1TB 7200RPM 3.5'' SATA HDD, and Free DOS Operating System. Its 8GB DDR4 RAM makes this an essential business desktop that also contains 1TB 7200RPM of SATA storage to ensure greater workability. Its basic components include with USB Keyboard & Mouse. In addition, it has 4 x USB3.2 Gen 1 Type-A, 4 x USB2.0 Type-A, 1 x HDMI Port, 1 x VGA/D-Sub, 1 x Audio Port Combo, and 1x Extra RAM Slot (highest upgradeable up to 64GB) with Tray load DVD Drive (Reads and Writes to DVD/CD). It runs on a Free DOS operating system with a 260W Power Supply and a Tray load DVD Drive (Reads and Writes to DVD/CD). Its 802.11 ac 2x2 WiFi, 10/100/1000 Gigabit Ethernet & Bluetooth 5.0 ensures high-speed network & wireless connectivity.",
+                                "price": 64000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 3,
+                                "product_name": "Dell OptiPlex 7000",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/dell/vostro-3888mt/vostro-3888mt-03-500x500.webp",
+                                "processor": "Intel Core i7-12700 (25M Cache, up to 4.90 GHz)",
+                                "model": " OptiPlex 7000 Tower",
+                                "motherboard": "",
+                                "ram":"8GB DDR5, Storage",
+                                "ssd": "1TB 7200 RPM SATA",
+                                "graphics_card": "Integrated Intel UHD",
+                                "description": "The Dell OptiPlex 7000 Tower Brand PC features Intel Core i7-12700 (25M Cache, up to 4.90 GHz) processors with innovative Hybrid Core technology, which provides improved performance to power more effective workdays. With 8GB (1x8GB) DDR5 non-ECC RAM and 1TB 7200 RPM SATA HDD, you can multitask and do even more. To reduce the environmental effect, it contains up to 60% post-consumer recycled materials. Its internal chassis and bezel design allow for greater airflow, resulting in optimal cooling efficiency. Its equipped with Intel UHD Graphics, Ethernet RJ-45, USB Port - 2 x USB 2.0 (Front), 1 x USB 3.2 Gen 2 (Front), 3 x USB 3.2 Gen 1 (Rear), 1 x USB 3.2 Gen 2 (Rear), 2 x USB 2.0 (Rear), USB C/Thunderbolt Port - 1 x USB 3.2 Gen 2 Type-C (Front), Audio Port - Combo (Front), 1 x Line in/Line out (Rear). It includes an 18.5'' LED display as well as a mouse and keyboard. It operates on a free DOS operating system and features a 260-watt power supply.",
+                                "price": 124000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            }
+                        ]
+                    },
+                    {
+                        "brand_pc_category_name": "HP",
+                        "brand_pc_category_childe":[
+                            {
+                                "product_id": 1,
+                                "product_name": "HP Pro Tower 280 G9",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/brand-pc/hp-aio/280-pro-g9/280-pro-g9-01-500x500.webp",
+                                "processor": " Intel Core i3-12100 (12M Cache, 3.30 GHz to 4.30 GHz)",
+                                "model": " 280 Pro G9",
+                                "motherboard": "",
+                                "ram":"4GB DDR4 RAM",
+                                "ssd": "1TB 7200 RPM SATA",
+                                "graphics_card": "",
+                                "description": "The HP 280 Pro G9 Core i3 12th Gen Tower Brand PC features Intel Core i3-12100 (12M Cache, 3.30 GHz to 4.30 GHz) processors with innovative Hybrid Core technology, which provides improved performance to power more effective workdays. With 4GB RAM and 1TB HDD, you can multitask and do even more. To reduce the environmental effect, it contains up to 60% post-consumer recycled materials. Its internal chassis and bezel design allow for greater airflow, resulting in optimal cooling efficiency. Two USB 2.0 ports, two USB 3.2 Gen 1 port, two USB 2.0 ports with Smart Power On, two USB 3.2 Gen 1 ports, one DisplayPort 1.4 port, one HDMI 1.4b connection, one RJ45 Ethernet port, and one Universal audio jack are available on the front. It includes an 18.5'' LED display as well as a mouse and keyboard. It also comes with Intel UHD Graphics and Intel B660. It features a 180-watt power supply. The HP 280 Pro G9 Core i3 12th Gen Tower Brand PC helps optimize business resources. Equipped with a powerful Intel processor, essential tools, and security features for business, this affordably priced and easy-to-set-up PC has a scalable and functional design that can grow with your business.",
+                                "price": 64000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 2,
+                                "product_name": "HP ProDesk 400 G9",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/brand-pc/hp-aio/prodesk-400-g9/prodesk-400-g9-10-500x500.webp",
+                                "processor": "Intel Core i5-12500 (18M Cache, 3.00 GHz to 4.60 GHz)",
+                                "model": "ProDesk 400 G9",
+                                "motherboard": "",
+                                "ram":"8GB DDR4 3200MHz,",
+                                "ssd": "1TB 7200 RPM SATA",
+                                "graphics_card": "",
+                                "description": "The HP ProDesk 400 G9 Core i5 12th Gen Desktop PC is a powerful desktop computer designed for both personal and professional use. It features an Intel Core i5-12500 processor, which has a cache of 18MB and a base clock speed of 3.00 GHz, capable of reaching up to 4.60 GHz with Intel Turbo Boost technology. This processor offers excellent performance for multitasking, productivity, and moderate gaming. The Desktop PC comes equipped with 8GB of DDR4 RAM, running at a speed of 3200MHz. This provides sufficient memory for smooth operation and efficient multitasking, allowing you to run multiple applications simultaneously without experiencing significant lag. The HP ProDesk 400 G9 offers a 1TB HDD (hard disk drive). While not as fast as solid-state drives (SSDs), HDDs provide ample storage space for your files, documents, media, and software. The Desktop PC features a variety of USB ports for connecting external devices. It includes 1 x USB Type-C port and 3 x USB Type-A ports on the front, making it convenient for quick and easy access. it has 3 x USB Type-A ports and 2 x USB Type-A ports at the rear, allowing for more peripheral connections. The HP ProDesk 400 G9 is equipped with Intel UHD Graphics 770. While not as powerful as dedicated graphics cards, this integrated graphics solution is capable of handling everyday tasks, multimedia playback, and light gaming. The Desktop PC includes a USB keyboard and mouse, providing you with the essential input devices for interacting with the computer. the HP ProDesk 400 G9 Core i5 12th Gen Brand PC offers a solid combination of processing power, memory, storage, and connectivity options. It is suitable for a wide range of tasks, including office work, web browsing, multimedia consumption, and moderate gaming.",
+                                "price": 64000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            },
+                            {
+                                "product_id": 3,
+                                "product_name": "HP 280 Pro G8 MT",
+                                "image": "https://www.startech.com.bd/image/cache/catalog/brand-pc/hp-aio/hp-280-pro/hp-280-pro-01-500x500.webp",
+                                "processor": "Intel Core i7-11700 (16M Cache, 2.5 GHz, up to 4.90 GHz)",
+                                "model": "280 Pro G8 MT",
+                                "motherboard": "",
+                                "ram":"8GB DDR4 3200MHz,",
+                                "ssd": "1TB 7200 RPM SATA",
+                                "graphics_card": "",
+                                "description": "The HP 280 Pro G8 MT Core i7 11th Gen Micro Tower Desktop PC is a powerhouse of computing capabilities designed to meet the demands of both professional work and personal tasks. With its advanced hardware and thoughtful design, this PC offers a seamless experience that combines power, efficiency, and convenience. It comes with an Intel Core i7-11700 processor, boasting 16MB of cache and a base clock speed of 2.5 GHz. With Turbo Boost technology, the processor can dynamically reach speeds of up to 4.90 GHz, ensuring smooth multitasking, rapid application launches, and exceptional overall performance. The HP 280 Pro G8 MT Desktop PC is equipped with 8GB of high-speed DDR4 RAM, ensuring that your applications run smoothly and efficiently. This memory capacity is well-suited for everyday tasks, office productivity, and even some creative endeavors. The Brand PC comes with a spacious 1TB HDD (Hard Disk Drive). This storage solution provides enough space for your documents, multimedia files, and software installations, ensuring that you have enough room for your data without compromising performance. The integrated Intel UHD graphics provide respectable visual performance for a range of tasks. While not intended for heavy gaming or graphic-intensive applications, it ensures a smooth display of everyday tasks, videos, and general multimedia consumption. The package also includes an HP 18.5;'' LED monitor, offering vibrant and crisp visuals for your work and entertainment. Additionally, the USB keyboard and mouse provide a comfortable and efficient input solution, completing the package for a ready-to-use computing experience.",
+                                "price": 81000,
+                                "status": "in Stoke",
+                                "product_code": 0,
+                                "reviews": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
